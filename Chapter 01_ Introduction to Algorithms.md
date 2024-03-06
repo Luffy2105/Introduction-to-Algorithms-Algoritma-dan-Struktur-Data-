@@ -5,7 +5,7 @@ Algoritma dan Struktur Data
 ## Simple Search & Binary Search
 #### 1. Introdusction to Algorithms
 Algoritma adalah sekumpulan instruksi untuk menyelesaikan suatu task atau tugas tertentu. Kita akan membahas sejumlah algoritma yang dipilih karena algoritma nya cepat dan mampu menyelesaikan problem yang cukup menarik. 
-#### 2.binary search
+#### 2.Binary search
 Kita akan dihadapi pada suatu kasus dimana harus mencari kata yang diawalai dari huruf k dalam kamus. Pada kasus ini dapat kita pahami bahwa dalam kamus menyimpan sekumpulan kata dalam urutan alfabet, oleh sebab itu kata yang berawalan k tentu saja berada di tengah tidak mungkin diawal ataupun diakhir, jadi kita dapay mulai melakukan pencarian melalui bagian tengah kamus.
 
 Kasus pencarian ini biasa kita kenal dengan istilah search problem atau masalah pencarian, salah satu solusi yang bisa kita gunakan ialah menggunakan binary search.
